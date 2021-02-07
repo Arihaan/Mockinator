@@ -7,7 +7,7 @@ A small, very rough, standalone executable to turn normal text into MoCkInG TeXt
 1. Click the Mockinator.exe file 
 2. Find 'Download' button
 3. Save the file anywhere on your PC. <br>
-NOTE: If you recieve a security restriction from your browser, please download Mockinator.rar instead and extract the file to your desired location.
+NOTE: If you recieve a security restriction from your browser, please download Mockinator.rar instead and extract the file to your desired location. If the problem persists, you may need to tweak your browser's settings to allow downloads.
 4. Run it
 5. Wait up to 15 seconds for the file to load
 6. Enjoy!
