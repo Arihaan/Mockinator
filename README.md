@@ -1,7 +1,7 @@
 # Mockinator
 A small, very rough, standalone executable to turn normal text into MoCkInG TeXt
 
-![Mockinator UI](https://user-images.githubusercontent.com/48653895/107146935-a6bd4500-6964-11eb-974f-23922cf50746.png)
+![Mockinator UI](https://user-images.githubusercontent.com/48653895/107147018-1f240600-6965-11eb-8ba3-7ec82f95c45b.png)
 
 # How to install:
 1. Click the Mockinator.exe file 
